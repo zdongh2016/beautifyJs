@@ -1,0 +1,28 @@
+{
+  "name": "gome-js-beautify",
+  "version": "0.1.1",
+  "description": "gome make js beautify",
+  "main": "lib/index",
+  "bin": {
+    "beautify": "./bin/index"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdongh2016/beautifyJs.git"
+  },
+  "keywords": [
+    "beautify"
+  ],
+  "author": "zdongh2010",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdongh2016/beautifyJs/issues"
+  },
+  "homepage": "https://github.com/zdongh2016/beautifyJs#readme",
+  "devDependencies": {
+    "js-beautify": "^1.6.12"
+  }
+}
